@@ -4,23 +4,22 @@ Books Reviews, Goodreads &amp; The Mighty
 <head>
 	:// Links to Segments on the page
 	<body> 
-	<h1 id ="top">Who is Brianna Armstrong?</h1>
+	<h1 id ="top">Reading Rainbow</h1>
 	<a href="Background">About</a><br />
 	<a href="Book_/_Reviews">Book Reviews</a><br />
 	<a href="Recommended_Books">Recommendations </a><br />
 	
 <center> <h2 id="About Me">Welcome</h2> </center>
 	
-<h2 id="Hobbies_/_Interests">Hobbies &amp; Interests</h2>	
-	<p>In my spare time I have a few hobbies I really enjoy. 
-	<ul> 
-	   <li> One of them being <em> writing </em>. I write in a journal daily and I often write poetry.
-		Through websites such as <b>GoodReads</b> and <b>TheMighty</b> I have several published articles online.
-		Writing helps me stay grounded by reflecting on my life and allowing me to express my creativity. </li> 
-	   <li> I find that <em>exercise</em> keep me healthy physically and even mentally. For example,
-		After a yoga class my mind always feels at ease. It is wonderful for stress relief and helps
-		when I am boggled down with work or school.
-	   </li> 
+<h2 id="Hobbies_/_Interests">Favorite Quotes</h2>	 
+	<ul> Favorite Quotes
+<li> “A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.” 
+― George R.R. Martin, A Dance with Dragons </li>
+<li> “It's not my responsibility to be beautiful. I'm not alive for that purpose. My existence is not about how desirable you find me.” 
+	― Warsan Shire </li>
+<li> “Never trust anyone who has not brought a book with them.” 
+	― Lemony Snicket, Horseradish </li>
+	   	   
 <h2><a ref="Recomended_Books">Recommeded Books</h2>
        <ul> 
 	  <li><em>
