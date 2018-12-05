@@ -1,8 +1,6 @@
 # BookReviewSample
-Books Reviews, Goodreads &amp; The Mighty
 <html>	
 <head>
-	:// Links to Segments on the page
 	<body> 
 	<h1 id ="top">Reading Rainbow</h1>
 	<a href="Background">About</a><br />
@@ -12,13 +10,13 @@ Books Reviews, Goodreads &amp; The Mighty
 <center> <h2 id="About Me">Welcome</h2> </center>
 	
 <h2 id="Hobbies_/_Interests">Favorite Quotes</h2>	 
-	<ul> Favorite Quotes
+<ul>
 <li> “A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.” 
 ― George R.R. Martin, A Dance with Dragons </li>
 <li> “It's not my responsibility to be beautiful. I'm not alive for that purpose. My existence is not about how desirable you find me.” 
 	― Warsan Shire </li>
 <li> “Never trust anyone who has not brought a book with them.” 
-	― Lemony Snicket, Horseradish </li>
+	― Lemony Snicket, Horseradish </li> </ul>
 	   	   
 <h2><a ref="Recomended_Books">Recommeded Books</h2>
        <ul> 
